@@ -63,9 +63,9 @@ def app():
                 PERSONAL INFORMATION
                 
                 Hellow, I am Charmel G. Tebe and I'm 18 years of age.
-                Elementary: ANAO-AON CENTRAL ELEMENTARY SCHOOL
-                High School: SAN FRANCISCO NATIONAL HIGH SCHOOL 
-                College: SURIGAO DEL NORTE STATE UNIVERSITY
+                Elementary: Anao-aon Central Elementary School
+                High School: San Francisco National High School
+                College: Surigao del Norte State University
                 Live: Poblacion, San Francisco, Surigao del Norte
                 I'm currently studying in Surigao del Norte State
                 I'm the only child
